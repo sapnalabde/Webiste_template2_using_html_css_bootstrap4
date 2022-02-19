@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.bg-img{
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.f-9{
+    font-weight: 900 !important;
+}
+.theme-blue{
+    background-color: #2f3fd2;
+}
+
+.video{
+    background-image: url(./images/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
